@@ -1,0 +1,10 @@
+[17:10:04] [BILGI] Anasayfa_Controller::index çağrıldı
+[17:10:04] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC/index.php]
+[17:10:06] [BILGI] Anasayfa_Controller::index çağrıldı
+[17:10:06] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC/]
+[17:10:10] [BILGI] Anasayfa_Controller::index çağrıldı
+[17:10:10] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC/%C3%B6kh]
+[17:10:13] [BILGI] Anasayfa_Controller::index çağrıldı
+[17:10:13] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC/%C5%9Fljqlkhfnq]
+[17:10:15] [BILGI] Anasayfa_Controller::index çağrıldı
+[17:10:15] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC/6+465]

@@ -1,0 +1,320 @@
+[22:59:54] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 73.39ms sürede yüklendi.
+[22:59:54] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[22:59:54] [BILGI] Sistem başlatıldı.
+[22:59:54] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[22:59:54] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[22:59:54] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[22:59:54] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[22:59:54] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[22:59:54] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[22:59:54] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[22:59:54] [BILGI] Sistem kapatıldı. Toplam çalışma süresi: 0.1103 saniye.
+[22:59:54] [BILGI] [:0] [Func:__destruct] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[22:59:54] [BILGI] Sistem kapatıldı. Toplam çalışma süresi: 0.1138 saniye.
+[22:59:54] [BILGI] [:0] [Func:__destruct] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:00:25] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 17.71ms sürede yüklendi.
+[23:00:25] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/!qfjql%C5%9F]
+[23:00:25] [BILGI] Sistem başlatıldı.
+[23:00:25] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/!qfjql%C5%9F]
+[23:00:25] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:00:25] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/!qfjql%C5%9F]
+[23:00:25] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:00:25] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/!qfjql%C5%9F]
+[23:00:25] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:00:25] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/!qfjql%C5%9F]
+[23:00:29] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 16.97ms sürede yüklendi.
+[23:00:29] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/qfjql%C5%9F]
+[23:00:29] [BILGI] Sistem başlatıldı.
+[23:00:29] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/qfjql%C5%9F]
+[23:00:29] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:00:29] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/qfjql%C5%9F]
+[23:00:29] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:00:29] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/qfjql%C5%9F]
+[23:00:29] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:00:29] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/qfjql%C5%9F]
+[23:00:35] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 45.48ms sürede yüklendi.
+[23:00:35] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lqfjqklf]
+[23:00:35] [BILGI] Sistem başlatıldı.
+[23:00:35] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lqfjqklf]
+[23:00:42] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 18.75ms sürede yüklendi.
+[23:00:42] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lqfjqklf]
+[23:00:42] [BILGI] Sistem başlatıldı.
+[23:00:42] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lqfjqklf]
+[23:00:42] [DIKKAT] Geçersiz karakterler içeren controller adı: lqfjqklf
+[23:00:42] [DIKKAT] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lqfjqklf]
+[23:00:54] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 62.84ms sürede yüklendi.
+[23:00:54] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9F%C5%9F%C5%9F]
+[23:00:54] [BILGI] Sistem başlatıldı.
+[23:00:54] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9F%C5%9F%C5%9F]
+[23:00:54] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:00:54] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9F%C5%9F%C5%9F]
+[23:00:54] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:00:54] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9F%C5%9F%C5%9F]
+[23:00:54] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:00:54] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9F%C5%9F%C5%9F]
+[23:00:59] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 22.48ms sürede yüklendi.
+[23:00:59] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9Fqljf%C5%9Flqjfq]
+[23:00:59] [BILGI] Sistem başlatıldı.
+[23:00:59] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9Fqljf%C5%9Flqjfq]
+[23:00:59] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:00:59] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9Fqljf%C5%9Flqjfq]
+[23:00:59] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:00:59] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9Fqljf%C5%9Flqjfq]
+[23:00:59] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:00:59] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9Fqljf%C5%9Flqjfq]
+[23:01:02] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 14.76ms sürede yüklendi.
+[23:01:02] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:01:02] [BILGI] Sistem başlatıldı.
+[23:01:02] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:01:02] [DIKKAT] Geçersiz karakterler içeren controller adı: lkqfhkq
+[23:01:02] [DIKKAT] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:03:17] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 80.33ms sürede yüklendi.
+[23:03:17] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:03:17] [BILGI] Sistem başlatıldı.
+[23:03:17] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:04:44] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 84.11ms sürede yüklendi.
+[23:04:44] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:04:44] [BILGI] Sistem başlatıldı.
+[23:04:44] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:06:49] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 43.18ms sürede yüklendi.
+[23:06:49] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:06:49] [BILGI] Sistem başlatıldı.
+[23:06:49] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:06:49] [DIKKAT] Geçersiz karakterler içeren controller adı: lkqfhkq
+[23:06:49] [DIKKAT] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:06:49] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:06:49] [BILGI] [Core\Library\Uygulama.php:93] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:09:21] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 68.00ms sürede yüklendi.
+[23:09:21] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:09:21] [BILGI] Sistem başlatıldı.
+[23:09:21] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:09:21] [DIKKAT] Geçersiz karakterler içeren controller adı: lkqfhkq
+[23:09:21] [DIKKAT] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:09:21] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:09:21] [BILGI] [Core\Library\Uygulama.php:93] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:16:44] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 68.74ms sürede yüklendi.
+[23:16:44] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:16:44] [BILGI] Sistem başlatıldı.
+[23:16:44] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:16:44] [DIKKAT] Geçersiz karakterler içeren controller adı: lkqfhkq
+[23:16:44] [DIKKAT] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:16:44] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:16:44] [BILGI] [Core\Library\Uygulama.php:93] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:21:11] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 76.97ms sürede yüklendi.
+[23:21:11] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:21:11] [BILGI] Sistem başlatıldı.
+[23:21:11] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:21:11] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:21:11] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:21:11] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:21:11] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:21:11] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:21:11] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:21:16] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 14.69ms sürede yüklendi.
+[23:21:16] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:21:16] [BILGI] Sistem başlatıldı.
+[23:21:16] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:21:16] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:21:16] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:21:16] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:21:16] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:21:16] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:21:16] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:21:19] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 16.57ms sürede yüklendi.
+[23:21:19] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:19] [BILGI] Sistem başlatıldı.
+[23:21:19] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:19] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:21:19] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:19] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:21:19] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:19] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:21:19] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:27] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 47.51ms sürede yüklendi.
+[23:21:27] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:27] [BILGI] Sistem başlatıldı.
+[23:21:27] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:27] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:21:27] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:27] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:21:27] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:27] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:21:27] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:53] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 14.11ms sürede yüklendi.
+[23:21:53] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:53] [BILGI] Sistem başlatıldı.
+[23:21:53] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:18] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 84.53ms sürede yüklendi.
+[23:26:18] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:18] [BILGI] Sistem başlatıldı.
+[23:26:18] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:24] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 21.83ms sürede yüklendi.
+[23:26:24] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:24] [BILGI] Sistem başlatıldı.
+[23:26:24] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:24] [DIKKAT] Controller dosyası bulunamadı: Ssss
+[23:26:24] [DIKKAT] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:24] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:26:24] [BILGI] [Core\Library\Uygulama.php:88] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:46] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 14.70ms sürede yüklendi.
+[23:26:46] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:46] [BILGI] Sistem başlatıldı.
+[23:26:46] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:46] [HATA] Controller dosyası bulunamadı: Ssss
+[23:26:46] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:46] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:26:46] [BILGI] [Core\Library\Uygulama.php:78] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:30:28] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 75.53ms sürede yüklendi.
+[23:30:28] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:30:28] [BILGI] Sistem başlatıldı.
+[23:30:28] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:30:28] [HATA] Controller dosyası bulunamadı: Ssss
+[23:30:28] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:30:28] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:30:28] [BILGI] [Core\Library\Uygulama.php:78] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:34:41] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 14.41ms sürede yüklendi.
+[23:34:41] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:34:41] [BILGI] Sistem başlatıldı.
+[23:34:41] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:34:41] [HATA] Controller dosyası bulunamadı: Ssss
+[23:34:41] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:34:41] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:34:41] [BILGI] [Core\Library\Uygulama.php:78] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:37:03] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 66.57ms sürede yüklendi.
+[23:37:03] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:37:03] [BILGI] Sistem başlatıldı.
+[23:37:03] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:37:03] [HATA] Controller dosyası bulunamadı: Ssss
+[23:37:03] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:37:03] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:37:03] [BILGI] [Core\Library\Uygulama.php:78] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:40:04] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 57.35ms sürede yüklendi.
+[23:40:04] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:40:04] [BILGI] Sistem başlatıldı.
+[23:40:04] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:40:04] [HATA] Controller dosyası bulunamadı: Ssss
+[23:40:04] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:40:04] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:40:04] [BILGI] [Core\Library\Uygulama.php:78] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:40:13] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 14.36ms sürede yüklendi.
+[23:40:13] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:40:13] [BILGI] Sistem başlatıldı.
+[23:40:13] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:40:13] [HATA] Controller dosyası bulunamadı: Test
+[23:40:13] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:40:13] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:40:13] [BILGI] [Core\Library\Uygulama.php:78] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:40:33] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 66.20ms sürede yüklendi.
+[23:40:33] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:40:33] [BILGI] Sistem başlatıldı.
+[23:40:33] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:40:33] [DIKKAT] Autoload: Sınıf bulunamadı: Test_Controller
+[23:40:33] [DIKKAT] [:0] [Func:{closure}] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:40:33] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:40:33] [BILGI] [Core\Library\Uygulama.php:87] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:04] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 20.82ms sürede yüklendi.
+[23:41:04] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:04] [BILGI] Sistem başlatıldı.
+[23:41:04] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:04] [BILGI] Controller method bulunamadı: index, index deneniyor.
+[23:41:04] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:05] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 18.88ms sürede yüklendi.
+[23:41:05] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:05] [BILGI] Sistem başlatıldı.
+[23:41:05] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:05] [BILGI] Controller method bulunamadı: index, index deneniyor.
+[23:41:05] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:13] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 14.57ms sürede yüklendi.
+[23:41:13] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:13] [BILGI] Sistem başlatıldı.
+[23:41:13] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:13] [BILGI] [CALL] Controller: Test | Method: index | Params: []
+[23:41:13] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:13] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:41:13] [BILGI] [App\Controller\Test.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:13] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:41:13] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:49] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 27.33ms sürede yüklendi.
+[23:41:49] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:49] [BILGI] Sistem başlatıldı.
+[23:41:49] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:49] [DIKKAT] Autoload: Sınıf bulunamadı: Test_Controller
+[23:41:49] [DIKKAT] [:0] [Func:{closure}] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:49] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:41:49] [BILGI] [Core\Library\Uygulama.php:87] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:54] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 12.90ms sürede yüklendi.
+[23:41:54] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:54] [BILGI] Sistem başlatıldı.
+[23:41:54] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:54] [BILGI] [CALL] Controller: Test | Method: index | Params: []
+[23:41:54] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:54] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:41:54] [BILGI] [App\Controller\Test.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:54] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:41:54] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:36] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 61.34ms sürede yüklendi.
+[23:42:36] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:36] [BILGI] Sistem başlatıldı.
+[23:42:36] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:36] [BILGI] [CALL] Controller: Test | Method: index | Params: []
+[23:42:36] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:36] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:42:36] [BILGI] [App\Controller\Test.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:36] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:42:36] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:46] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 61.58ms sürede yüklendi.
+[23:42:46] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:46] [BILGI] Sistem başlatıldı.
+[23:42:46] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:52] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 50.23ms sürede yüklendi.
+[23:42:52] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:52] [BILGI] Sistem başlatıldı.
+[23:42:52] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:52] [HATA] Controller dosyası bulunamadı: Test
+[23:42:52] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:52] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:42:52] [BILGI] [Core\Library\Uygulama.php:78] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:47:52] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 76.33ms sürede yüklendi.
+[23:47:52] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:47:52] [BILGI] Sistem başlatıldı.
+[23:47:52] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:47:52] [HATA] Controller dosyası bulunamadı: Test
+[23:47:52] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:47:52] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:47:52] [BILGI] [Core\Library\Uygulama.php:78] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:47:55] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 14.78ms sürede yüklendi.
+[23:47:55] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:47:55] [BILGI] Sistem başlatıldı.
+[23:47:55] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:47:55] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:47:55] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:47:55] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:47:55] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:47:55] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:47:55] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:48:53] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 72.88ms sürede yüklendi.
+[23:48:53] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:48:53] [BILGI] Sistem başlatıldı.
+[23:48:53] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:48:53] [BILGI] [CALL] Controller: Anasayfa | Method: index | Params: []
+[23:48:53] [BILGI] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:48:53] [BILGI] View dosyası yükklendi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View/Anasayfa.php
+[23:48:53] [BILGI] [App\Controller\Anasayfa.php:18] [Func:View] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:48:53] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\View\Anasayfa.php
+[23:48:53] [BILGI] [Core\Library\Controller.php:89] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[23:48:55] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 12.55ms sürede yüklendi.
+[23:48:55] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:48:55] [BILGI] Sistem başlatıldı.
+[23:48:55] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:48:55] [HATA] Controller dosyası bulunamadı: Test
+[23:48:55] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:48:55] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:48:55] [BILGI] [Core\Library\Uygulama.php:108] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:49:54] [BILGI] Yükleyici tamamlandı. Toplam 33 dosya 17.06ms sürede yüklendi.
+[23:49:54] [BILGI] [Core\Library\Uygulama.php:28] [Func:Yukleyici] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:49:54] [BILGI] Sistem başlatıldı.
+[23:49:54] [BILGI] [Core\Library\Uygulama.php:31] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:49:54] [HATA] Controller dosyası bulunamadı: Test
+[23:49:54] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:49:54] [BILGI] Dosya dahil edildi: D:\Projeler\XAMPP\htdocs\Dropbox\MVC_v26\App\/View/\Hata.php
+[23:49:54] [BILGI] [Core\Library\Uygulama.php:108] [Func:Dosya] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]

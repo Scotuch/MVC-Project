@@ -1,0 +1,16 @@
+[11:48:23] [BILGI] API dokümantasyon HTML dosyası yüklendi: D:\Web-Project\XAMPP\htdocs\Dropbox\MVC_v26\Core\View\Api_Dokuman_HTML.php
+[11:48:23] [BILGI] [Core\Library\Api_Dokuman.php:95] [Func:HTML] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/dokuman]
+[11:51:17] [BILGI] API dokümantasyon HTML dosyası yüklendi: D:\Web-Project\XAMPP\htdocs\Dropbox\MVC_v26\Core\View\Api_Dokuman_HTML.php
+[11:51:17] [BILGI] [Core\Library\Api_Dokuman.php:95] [Func:HTML] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/dokuman]
+[11:51:24] [HATA] Token parametresi gereklidir. (&token=... veya Authorization header)
+[11:51:24] [HATA] [Core\Library\Api.php:60] [Func:Kimlik] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/api?id=test]
+[11:51:24] [HATA] API kritik hatası: Token parametresi gereklidir. (&token=... veya Authorization header) - Dosya: D:\Web-Project\XAMPP\htdocs\Dropbox\MVC_v26\Core\Library\Api.php - Satır: 65
+[11:51:24] [HATA] [api.php:62] [Func:Hata] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/api?id=test]
+[11:51:33] [BILGI] Endpoint: test_html - Token kontrolü atlandı (TOKEN=false)
+[11:51:33] [BILGI] [Core\Library\Api.php:60] [Func:Kimlik] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/api?id=test_html]
+[11:51:33] [BILGI] API isteği alındı. Gelen veriler: [ id="test_html" ] IP: 192.168.1.3
+[11:51:33] [BILGI] [Core\Library\Api.php:63] [Func:Yurut] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/api?id=test_html]
+[11:51:33] [BILGI] HTML yüklendi: Test.php
+[11:51:33] [BILGI] [App\Api\Test.php:42] [Func:HTML] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/api?id=test_html]
+[11:52:09] [BILGI] API dokümantasyon HTML dosyası yüklendi: D:\Web-Project\XAMPP\htdocs\Dropbox\MVC_v26\Core\View\Api_Dokuman_HTML.php
+[11:52:09] [BILGI] [Core\Library\Api_Dokuman.php:95] [Func:HTML] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/dokuman]

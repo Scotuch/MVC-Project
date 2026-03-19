@@ -1,0 +1,90 @@
+[11:45:31] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:45:31] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/index.php]
+[11:46:24] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:46:24] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9Flqjflkq]
+[11:48:10] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:48:10] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/anasayfa]
+[11:51:24] [DEBUG] Endpoint: test - Özellikler: {"GET":true,"POST":true,"TOKEN":true}
+[11:51:24] [DEBUG] [Core\Library\Api.php:60] [Func:Kimlik] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/api?id=test] [Mem:2476.1KB]
+[11:51:33] [DEBUG] Endpoint: test_html - Özellikler: {"GET":true,"POST":true,"TOKEN":false}
+[11:51:33] [DEBUG] [Core\Library\Api.php:60] [Func:Kimlik] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/api?id=test_html] [Mem:2476.1KB]
+[11:51:33] [DEBUG] Endpoint: test_html - Token kontrolü atlandı (TOKEN=false)
+[11:51:33] [DEBUG] [Core\Library\Api_Router.php:60] [Func:Ozellik_Kontrol] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/api?id=test_html] [Mem:2477.5KB]
+[11:54:01] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:54:01] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/index.php]
+[11:54:03] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:54:03] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:54:45] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:54:45] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:54:51] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:54:51] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:55:06] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:55:06] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:55:14] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:55:14] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:55:19] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:55:19] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:55:25] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:55:25] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:55:30] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:55:30] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:55:43] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:55:43] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:55:52] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:55:52] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:55:59] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:55:59] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:56:04] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:56:04] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:56:14] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:56:14] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:56:23] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:56:23] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:56:29] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:56:29] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:56:31] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:56:31] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:56:38] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:56:38] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:56:41] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:56:41] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:56:46] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:56:46] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:57:31] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:57:31] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[11:59:46] [BILGI] Anasayfa_Controller::index çağrıldı
+[11:59:46] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:01:41] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:01:41] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:03:42] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:03:42] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/index.php]
+[12:03:48] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:03:48] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:04:56] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:04:56] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:04:57] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:04:57] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:05:06] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:05:06] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:05:13] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:05:13] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:05:17] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:05:17] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:07:44] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:07:44] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:10:45] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:10:45] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:11:32] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:11:32] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:12:06] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:12:06] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:15:21] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:15:21] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:15:22] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:15:22] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:16:40] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:16:40] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:17:00] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:17:00] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]
+[12:17:44] [BILGI] Anasayfa_Controller::index çağrıldı
+[12:17:44] [BILGI] [Core\Library\Uygulama.php:193] [Func:index] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC_v26/]

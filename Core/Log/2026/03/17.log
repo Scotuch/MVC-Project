@@ -1,0 +1,6 @@
+[17:10:10] [DIKKAT] Güvenlik: Geçersiz URL tespit edildi: ökh
+[17:10:10] [DIKKAT] [Core\Library\Uygulama.php:45] [Func:URL] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC/%C3%B6kh]
+[17:10:13] [DIKKAT] Güvenlik: Geçersiz URL tespit edildi: şljqlkhfnq
+[17:10:13] [DIKKAT] [Core\Library\Uygulama.php:45] [Func:URL] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC/%C5%9Fljqlkhfnq]
+[17:10:15] [DIKKAT] Güvenlik: Geçersiz URL tespit edildi: 6 465
+[17:10:15] [DIKKAT] [Core\Library\Uygulama.php:45] [Func:URL] [IP:192.168.1.3] [Method:GET] [URI:/Dropbox/MVC/6+465]

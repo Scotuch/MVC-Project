@@ -1,0 +1,30 @@
+[23:00:25] [DIKKAT] Güvenlik: Geçersiz URL tespit edildi: !qfjqlş
+[23:00:25] [DIKKAT] [Core\Library\Uygulama.php:45] [Func:URL] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/!qfjql%C5%9F]
+[23:00:29] [DIKKAT] Güvenlik: Geçersiz URL tespit edildi: qfjqlş
+[23:00:29] [DIKKAT] [Core\Library\Uygulama.php:45] [Func:URL] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/qfjql%C5%9F]
+[23:00:35] [HATA] Controller dosyası bulunamadı: Lqfjqklf
+[23:00:35] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lqfjqklf]
+[23:00:35] [HATA] Controller dosyası bulunamadı: Lqfjqklf
+[23:00:35] [HATA] [index.php:54] [Func:__construct] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lqfjqklf]
+[23:00:42] [HATA] Geçersiz karakterler içeren controller adı: lqfjqklf
+[23:00:42] [HATA] [index.php:54] [Func:__construct] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lqfjqklf]
+[23:00:54] [DIKKAT] Güvenlik: Geçersiz URL tespit edildi: şşş
+[23:00:54] [DIKKAT] [Core\Library\Uygulama.php:45] [Func:URL] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9F%C5%9F%C5%9F]
+[23:00:59] [DIKKAT] Güvenlik: Geçersiz URL tespit edildi: şqljfşlqjfq
+[23:00:59] [DIKKAT] [Core\Library\Uygulama.php:45] [Func:URL] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/%C5%9Fqljf%C5%9Flqjfq]
+[23:01:02] [HATA] Geçersiz karakterler içeren controller adı: lkqfhkq
+[23:01:02] [HATA] [index.php:54] [Func:__construct] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/lkqfhkq]
+[23:21:53] [HATA] Controller dosyası bulunamadı: Ssss
+[23:21:53] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:21:53] [HATA] Controller dosyası bulunamadı: Ssss
+[23:21:53] [HATA] [index.php:54] [Func:__construct] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:18] [HATA] Controller dosyası bulunamadı: Ssss
+[23:26:18] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:26:18] [HATA] Controller dosyası bulunamadı: Ssss
+[23:26:18] [HATA] [index.php:54] [Func:__construct] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/ssss]
+[23:40:33] [HATA] Controller sınıfı bulunamadı: Test_Controller
+[23:40:33] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:41:49] [HATA] Controller sınıfı bulunamadı: Test_Controller
+[23:41:49] [HATA] [Core\Library\Uygulama.php:48] [Func:Calistir] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
+[23:42:46] [HATA] syntax error, unexpected identifier "Test_Controller"
+[23:42:46] [HATA] [index.php:54] [Func:__construct] [IP:localhost] [Method:GET] [URI:/Dropbox/MVC_v26/test]
