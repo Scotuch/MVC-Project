@@ -1,0 +1,155 @@
+# -----------------------------------------------
+# Temel ayarlar
+# -----------------------------------------------
+
+# MultiViews kapalı (URL çakışmalarını önlemek için)
+# Açıklama:
+#   MultiViews açık olursa URL sonuna eklenen parçalar otomatik olarak
+#   farklı dosyalara yönlendirilebilir. Bu, istenmeyen çakışmalara neden olabilir.
+Options -MultiViews
+
+# Dizin listelemeyi engelle
+# Açıklama:
+#   Eğer bir klasörde index dosyası yoksa, tüm dosyalar listelenir.
+#   Options -Indexes ile dizin listelemesi kapatılır.
+Options -Indexes
+
+# Rewrite modülü aktif
+# Açıklama:
+#   URL yönlendirmeleri için mod_rewrite gereklidir.
+RewriteEngine On
+
+# -----------------------------------------------
+# HTTPS Yönlendirmesi (Production için)
+# -----------------------------------------------
+
+# HTTPS zorlaması - HTTP'den HTTPS'e yönlendirme
+# Açıklama:
+#   Tüm HTTP trafiği HTTPS'e yönlendirilir
+#   Production ortamında yorumdan çıkarın
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# HTTPS zorlaması - www olmadan (veya www ile)
+# Açıklama:
+#   www olmadan kullanmak isterseniz bu kuralı açın
+# RewriteCond %{HTTPS} on
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# -----------------------------------------------
+# Kısa URL yönlendirmeleri
+# -----------------------------------------------
+
+# Belirli kısa URL isteklerini doğrudan ilgili PHP dosyalarına yönlendir
+# Kural mantığı:
+#   ^api$      → URL tam olarak "/api" ise api.php çalıştırılır
+#   ^endpoint$ → URL tam olarak "/endpoint" ise endpoint.php çalıştırılır
+# Parametreler:
+#   [L]  → Bu kural eşleşirse diğer RewriteRule'lar uygulanmaz
+#   [NC] → Büyük/küçük harf farkı yok sayılır
+#   [QSA] → Query String Append - GET parametrelerini koru
+RewriteRule ^api$ api.php [L,NC]
+RewriteRule ^ajax$ ajax.php [L,NC]
+RewriteRule ^endpoint$ endpoint.php [L,NC,QSA]
+
+# Eğer dosya veya klasör yoksa, tüm istekleri index.php'ye yönlendir
+# Açıklama:
+#   RewriteCond %{REQUEST_FILENAME} !-d
+#     → Eğer istenen URL bir klasör değilse
+#   RewriteCond %{REQUEST_FILENAME} !-f
+#     → Eğer istenen URL bir dosya değilse
+#   RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+#     → Tüm istekler index.php'ye yönlendirilir ve orijinal URL parametre olarak aktarılır
+
+# Statik dosyaları (CSS, JS, resim vb.) yönlendirmeye dahil etme
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !\.(css|js|jpg|jpeg|png|gif|svg|ico|woff|woff2|ttf|eot|pdf|zip|txt|xml|json)$ [NC]
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+
+# -----------------------------------------------
+# Dosya erişim kısıtlamaları
+# -----------------------------------------------
+
+# .env dosyası engellenir (Apache 2.4+)
+# Açıklama:
+#   Ortam değişkenlerini içeren .env dosyası herkese görünmemeli
+<Files ".env">
+    Require all denied
+</Files>
+
+# Önemli sistem dosyaları engellenir (Apache 2.4+)
+# Açıklama:
+#   .git, .htaccess, .htpasswd gibi dosyalar daima gizli tutulur
+<FilesMatch "^(\.env|\.git|\.htaccess|\.htpasswd)$">
+    Require all denied
+</FilesMatch>
+
+# Hassas uzantılar engellenir
+# Açıklama:
+#   Yedek, geçici ve sıkıştırılmış dosyalar dışarıdan erişilemez
+<FilesMatch "\.(bak|old|orig|save|swp|sql|tar|zip|gz)$">
+    Require all denied
+</FilesMatch>
+
+# -----------------------------------------------
+# Güvenlik header’ları (mod_headers aktif olursa)
+# -----------------------------------------------
+
+<IfModule mod_headers.c>
+    # MIME türü karışıklığını engelle
+    # Açıklama: Dosya tipleri doğru şekilde işlenir
+    Header always set X-Content-Type-Options "nosniff"
+
+    # Clickjacking engelle
+    # Açıklama: iframe içinde sitenizin yüklenmesini engeller
+    Header always set X-Frame-Options "SAMEORIGIN"
+
+    # XSS filtreleme
+    # Açıklama: Tarayıcının XSS filtresi aktif olur
+    Header always set X-XSS-Protection "1; mode=block"
+
+    # Referrer bilgisi
+    # Açıklama: Sadece aynı origin veya HTTPS’e geçerken gönderilir
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+    # Content Security Policy (CSP) - İsteğe bağlı
+    # Açıklama: Çok katı güvenlik gerekiyorsa aktif edin. Tüm harici kaynakları tek tek eklemeniz gerekir.
+    # Header always set Content-Security-Policy "default-src 'self' 'unsafe-inline' 'unsafe-eval' https:; img-src 'self' data: https:;"
+
+    # Strict Transport Security (HSTS)
+    # Açıklama: HTTPS kullanımını zorunlu tutar (HTTPS aktifse yorumdan çıkarın)
+    # Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+
+    # Permissions Policy (önceki adıyla Feature Policy)
+    # Açıklama: Tarayıcı özelliklerinin kullanımını kısıtlar
+    Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
+
+# Eski HTTP yöntemlerini engelle
+# Açıklama: TRACE ve TRACK gibi tehlikeli yöntemler bloklanır
+RewriteCond %{REQUEST_METHOD} ^(TRACE|TRACK) [NC]
+RewriteRule .* - [F]
+
+# -----------------------------------------------
+# Apache 2.2 desteği (gerekirse yorumdan çıkar)
+# -----------------------------------------------
+
+# .env ve sistem dosyalarını engelle
+# <FilesMatch "^(\.env|\.git|\.htaccess|\.htpasswd)$">
+#     Order allow,deny
+#     Deny from all
+# </FilesMatch>
+
+# Hassas uzantıları engelle
+# <FilesMatch "\.(bak|old|orig|save|swp|sql|tar|zip|gz)$">
+#     Order allow,deny
+#     Deny from all
+# </FilesMatch>
+
+# .env dosyası engelle (Apache 2.2)
+# <Files .env>
+#    Order allow,deny
+#    Deny from all
+# </Files>
